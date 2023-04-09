@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arifrind
-- 👀 I’m interested in Web Development, Game Development, Data Science & Java.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Cyber Security, Ethical Hacking, Artificial Intelligence, and  Data Science.
+- 🌱 I’m currently learning CS50x 2023 on EdX, Cyber Security Essentias on Cybrary, and Software Engineering by IBM on Coursera alongside my university studies..
 - 💞️ I’m looking to collaborate on Basic projects for my learning purpose.
 - 📫 How to reach me through? Here's my Linkedin: https://www.linkedin.com/in/arifrind/
 <!---
